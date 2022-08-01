@@ -3,7 +3,7 @@
 
 ## Image Recognition  
 - An Image is Worth 16*16 Words: Transformers for Image Recognition at Scale (ICLR 2021)
-  - [Original Paper Link](https://arxiv.org/abs/2010.11929)/[Summary PDF](https://www.notion.so/VIT-f78102ed5e874673a47360ef8180f7c1)/Code Practice
+  - [Original Paper Link](https://arxiv.org/abs/2010.11929)/[Summary PDF](https://www.notion.so/VIT-f78102ed5e874673a47360ef8180f7c1)/[Code Practice](https://github.com/ChangSu-Choi/Deep-Learning-Paper-Review-and-Practice/blob/main/code_practices/ViT.ipynb)
 
 ## Natural Language Processing (자연어 처리)
 - Attention is All You Need (NIPS 2017)
