@@ -3,9 +3,9 @@
 
 ## Computer Vision
 - An Image is Worth 16*16 Words: Transformers for Image Recognition at Scale (ICLR 2021)
-  - [Original Paper Link](https://arxiv.org/abs/2010.11929)/[Summary PDF](https://www.notion.so/VIT-f78102ed5e874673a47360ef8180f7c1)/[Code Practice](https://github.com/ChangSu-Choi/Deep-Learning-Paper-Review-and-Practice/blob/main/code_practices/ViT.ipynb)
+  - [Original Paper Link](https://arxiv.org/abs/2010.11929)/[Summary PDF](https://www.notion.so/VIT-f78102ed5e874673a47360ef8180f7c1)/[Code Practice](https://github.com/ChangSu-Choi/Deep-Learning-Paper-Review-and-Practice/blob/main/code_practices/ViT.ipynb)  
 - Data Augmentation of Backscatter X-ray Images for Deep Learning-Based Automatic Cargo Inspection
-  -[Original Paper Link](https://www.mdpi.com/1424-8220/21/21/7294)/[Summary PDF](https://github.com/ChangSu-Choi/Deep-Learning-Paper-Review-and-Practice/blob/main/lecture_notes/Data%20Augmentation%20of%20Backscatter%20X-ray%20Images%20%20for%20Deep%20Learning-Based%20Automatic%20Cargo%20Inspection/Data%20Augmentation%20of%20Backscatter%20X-ray%20Images%20%20for%20Deep%20Learning-Based%20Automatic%20Cargo%20Inspection.pdf)
+  - [Original Paper Link](https://www.mdpi.com/1424-8220/21/21/7294)/[Summary PDF](https://github.com/ChangSu-Choi/Deep-Learning-Paper-Review-and-Practice/blob/main/lecture_notes/Data%20Augmentation%20of%20Backscatter%20X-ray%20Images%20%20for%20Deep%20Learning-Based%20Automatic%20Cargo%20Inspection/Data%20Augmentation%20of%20Backscatter%20X-ray%20Images%20%20for%20Deep%20Learning-Based%20Automatic%20Cargo%20Inspection.pdf)
 
 
 ## Natural Language Processing (자연어 처리)
