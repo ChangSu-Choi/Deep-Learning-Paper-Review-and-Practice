@@ -14,5 +14,7 @@
 
 
 ## Multi Modal
+- Align before Fuse: Vision and Language Representation Learning with Momentum Distillation
+  - [Original Paper Link](https://arxiv.org/abs/2107.07651)/[Summary PDF]()/[Code Practice]()
 - Ko-ViLT: Vision-Language Transformer에 기반한 한국어 시각 질의응답(KCC2022)
   - [Original Paper Link]()/[Summary PDF](https://www.notion.so/Ko-ViLT-Vision-Language-Transformer-bbdeeec889ef453b84de6b0ededc75c9)/Code Practice
