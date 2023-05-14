@@ -14,9 +14,9 @@
 
 
 ## Multi Modal
-- Align before Fuse: Vision and Language Representation Learning with Momentum Distillation
+- ALBEF:Align before Fuse: Vision and Language Representation Learning with Momentum Distillation
   - [Original Paper Link](https://arxiv.org/abs/2107.07651)/[Summary PDF](https://github.com/ChangSu-Choi/Deep-Learning-Paper-Review-and-Practice/blob/main/lecture_notes/ALBEF/Align%20before%20Fuse_%20Vision%20and%20Language%20Representation%20Learning%20with%20Momentum%20Distillation.pdf)/[Code Practice](https://github.com/ChangSu-Choi/Deep-Learning-Paper-Review-and-Practice/blob/main/code_practices/ALBEF/ALBEF.ipynb), [ppt](https://github.com/ChangSu-Choi/Deep-Learning-Paper-Review-and-Practice/blob/main/code_practices/ALBEF/Align%20before%20Fuse_%20Vision%20and%20Language%20Representation%20Learning%20with%20Momentum%20Distillation-Code.pdf)
 - Ko-ViLT: Vision-Language Transformer에 기반한 한국어 시각 질의응답(KCC2022)
   - [Original Paper Link]()/[Summary PDF](https://www.notion.so/Ko-ViLT-Vision-Language-Transformer-bbdeeec889ef453b84de6b0ededc75c9)/Code Practice
-- Multimodal Knowledge Alignment with Reinforcement Learning
+- ESPER:Multimodal Knowledge Alignment with Reinforcement Learning
   - [Original Paper Link](https://arxiv.org/pdf/2205.12630.pdf)/[Summary PDF](https://swift-phosphorus-9a4.notion.site/Multimodal-Knowledge-Alignment-with-Reinforcement-Learning-05c7298cd4874e2f87b71cd1f7f5fdac)/Code Practice
